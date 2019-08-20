@@ -1,0 +1,8 @@
+pip install python==3.6.1
+pip install tensorflow-gpu==1.9.0
+pip install opencv-python
+pip install sklearn
+pip install imutils
+pip install matplotlib
+pip install -U jupyter jupyterlab
+
